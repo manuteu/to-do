@@ -4,7 +4,9 @@ export const styles = StyleSheet.create({
   container: {
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop: 42,
+    paddingTop: 42,
+    borderTopWidth: 1,
+    borderTopColor: '#333333'
   },
   textBox: {
     marginTop: 16,

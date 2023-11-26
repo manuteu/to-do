@@ -2,11 +2,11 @@ import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
   container: {
+    flex: 1,
     width: '100%',
-    height: '100%',
     backgroundColor: '#1A1A1A',
-    marginBottom: 10,
-    paddingHorizontal: 20
+    paddingHorizontal: 20,
+    paddingBottom: 20
   },
   inputContainer: {
     flexDirection: 'row',
@@ -23,24 +23,10 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center'
   },
-  input: {
-    padding: 16,
-    height: 56,
-    fontSize: 16,
-    backgroundColor: '#262626',
-    borderColor: '#0D0D0D',
-    borderWidth: 1,
-    flex: 1,
-    marginRight: 10,
-    borderRadius: 6
-  },
   infoRow: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     paddingBottom: 20,
-    marginBottom: 32,
-    borderBottomWidth: 1,
-    borderBottomColor: '#333333'
   },
   infoGroup: {
     flexDirection: 'row',
