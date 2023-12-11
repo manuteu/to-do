@@ -1,5 +1,5 @@
 # to-do
-## Ignite react native - challenger 1
+## Ignite react native - challenge 1
 Projeto consiste em um to do, uma lista de tarefas. Podendo incluir tarefas, marca-las como concluídas e exclui-las.
 ![image](https://github.com/manuteu/to-do/assets/74114950/ad141d06-136c-450d-a7e3-c5b517b41ee0)
 
